@@ -33,6 +33,7 @@ jobs:
           java-version: 17
           distribution: 'adopt'
             
-      #- name: Build Eureka Naming Server Contêiner Image
-      #  working-directory: : actions/setup-java@v4.5.0
+      - name: Build Eureka Naming Server Contêiner Image
+        working-directory: ./06-naming-server
+        run: mvn spring-boot:build-image -DskipTests
           
