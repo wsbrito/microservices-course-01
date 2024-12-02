@@ -1,0 +1,3 @@
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/06-api-gateway/src/main/java/br/com/wsbrito/Application.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/06-api-gateway/src/main/java/br/com/wsbrito/configuration/OpenApiConfiguration.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/06-api-gateway/src/main/java/br/com/wsbrito/filter/LogginFilter.java

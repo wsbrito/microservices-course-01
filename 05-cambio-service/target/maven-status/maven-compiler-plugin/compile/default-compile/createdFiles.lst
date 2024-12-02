@@ -1,0 +1,6 @@
+br/com/wsbrito/controllers/CambioController.class
+br/com/wsbrito/CambioRepository.class
+br/com/wsbrito/services/CambioService.class
+br/com/wsbrito/configuration/OpenApiConfiguration.class
+br/com/wsbrito/Application.class
+br/com/wsbrito/model/Cambio.class

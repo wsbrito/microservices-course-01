@@ -1,0 +1,9 @@
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/Application.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/configuration/OpenApiConfiguration.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/controllers/BookController.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/controllers/FooBar.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/model/Book.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/proxy/CambioProxy.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/repository/BookRepositorty.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/response/CambioDTO.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-book-service/src/main/java/br/com/wsbrito/services/BookService.java

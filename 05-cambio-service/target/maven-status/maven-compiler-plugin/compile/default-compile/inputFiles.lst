@@ -1,0 +1,6 @@
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/Application.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/CambioRepository.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/configuration/OpenApiConfiguration.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/controllers/CambioController.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/model/Cambio.java
+/home/wagner/Documentos/Learning/Udemy-MicroservicosDoZero/workspace/microservices-course-01/05-cambio-service/src/main/java/br/com/wsbrito/services/CambioService.java

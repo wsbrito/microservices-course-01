@@ -1,0 +1,9 @@
+br/com/wsbrito/response/CambioDTO.class
+br/com/wsbrito/proxy/CambioProxy.class
+br/com/wsbrito/controllers/FooBar.class
+br/com/wsbrito/configuration/OpenApiConfiguration.class
+br/com/wsbrito/repository/BookRepositorty.class
+br/com/wsbrito/Application.class
+br/com/wsbrito/controllers/BookController.class
+br/com/wsbrito/services/BookService.class
+br/com/wsbrito/model/Book.class
